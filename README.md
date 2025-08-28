@@ -1,5 +1,7 @@
 ### Welcome! 👋
-My name is Alyssa Donawa and I am a PhD Candidate in Computer Engineering at the University of Southern California. I am a member of the [Network Reconnaissance (NetRecon) lab](https://github.com/netreconlab) where my research intersects opportunistic mobile communication, mobile health, and human-centered computing.
+My name is Alyssa Donawa and I am a PhD Candidate in Computer Engineering at the University of Southern California. 
+
+🔭 I am a member of the [Network Reconnaissance (NetRecon) lab](https://github.com/netreconlab) where my research intersects opportunistic mobile communication, mobile health, and human-centered computing.
 
 📫 How to reach me: donawa@usc.edu
 <!--
